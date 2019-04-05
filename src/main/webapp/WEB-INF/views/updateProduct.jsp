@@ -13,7 +13,7 @@
 			action="${pageContext.request.contextPath}/admin/productInventory/updateProduct"
 			method="post" modelAttribute="product">
 			
-			<!--<sf:hidden path="id"/>-->
+			<sf:hidden path="id"/>
 
 			<div class="form-group">
 				<label for="name">Name</label>
