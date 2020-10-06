@@ -11,6 +11,7 @@
 * Validation & Security 를 사용하여 관리자 계정과 일반 계정의 구성의 차이점을 알 수 있었습니다.
 * Hibernate를 사용하여 관계형 데이터베이스를 구축할 수 있었습니다.
 * Angular를 통해 SPA(Single Page Application) 프레임워크가 view에 해당하는 부분이 주소가 바뀌지 않고 동적으로 로드할 수 있다는 것을 알게 되었습니다.
+* JdbcTemplate을 사용한 것으로 JPA Repository를 사용하지 않은 방식입니다.
 ```
 
 ## 프로젝트 기간
